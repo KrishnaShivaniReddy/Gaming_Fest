@@ -1,4 +1,4 @@
-#Each week Scenario
+#Each biweekly Scenario
 import random 
 tuesdays = [2,9]
 d= {}
